@@ -73,6 +73,6 @@ The database will be seeded with initial user data via the DatabaseSeeder.cs fil
 ### Running Tests
 Tests are located in the DataBalkCSharp.Tests project. Run tests with:
 ```
-bash
-Copy code
+dotnet test
+
 ```
