@@ -1,0 +1,6 @@
+@DatabalkC__HostAddress = http://localhost:5050
+
+GET {{DatabalkC__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
